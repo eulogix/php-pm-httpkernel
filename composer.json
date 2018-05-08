@@ -3,7 +3,7 @@
     "require": {
         "symfony/http-foundation": "^2.6|^3.0",
         "symfony/http-kernel": "^2.6|^3.0",
-        "php-pm/php-pm": "dev-master"
+        "php-pm/php-pm": "dev-master#4c8f31c6f0cd97533ee1a1b058f0206e30fecaff"
     },
     "autoload": {
         "psr-4": {
